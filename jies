@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>表白</title>
+</head>
+<body>
+<div id="container">
+  <h1>我爱你</h1>
+  <p>
+    从第一次见到你，我就被你的美丽和善良深深吸引了。你总是那么的温柔、体贴，让我感到无比的温暖。
+  </p>
+  <p>
+    我知道，我可能不是一个完美的男人，但我会用我的真心来爱你。我会永远陪伴在你身边，为你遮风挡雨。
+  </p>
+  <p>
+    请你给我一个机会，让我来证明我的爱。
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Red_heart.svg/1200px-Red_heart.svg.png" alt="红心">
+</div>
+</body>
+</html>
